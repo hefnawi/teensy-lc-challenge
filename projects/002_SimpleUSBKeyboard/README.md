@@ -1,4 +1,4 @@
-# Project 001: Blinking LED
+# Project 002: USB HID Keyboard
 
 ```
 Hello World 0
